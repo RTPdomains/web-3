@@ -1,0 +1,103 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: -5px 3px 3px white;
+}
+
+body{
+    background-color:rgb(59, 59, 59);
+}
+
+div.IG{
+    padding: 6px 6px 6px 6px ;
+    justify-self: center;
+    margin-top: 25px;
+    margin: 25px;
+    border-color: aliceblue;
+}
+
+button.IG1{
+    background-color: rgb(209, 109, 204);
+}
+
+div.TTX{
+    padding:6px 6px 6px 6px;
+    justify-self: center;
+    margin-top: 25px;
+    margin: 25px;
+}
+
+button.TT2{
+    margin-right: 125px;
+    background-color: white;
+    box-shadow:4px -2px 1px red;
+}
+
+button>img.gambarTT{
+    width: 30px;
+    height: 30px;
+    float: unset;
+    padding-top: 7px;
+    box-shadow: -4px 4px 1px  rgb(30, 30, 223)
+}
+
+button.X3{
+    margin-left: 1;
+    background-color: white;
+}
+
+button>img.gambarX{
+    width: 30px;
+    height: 30px;
+    float: unset;
+    padding-top: 7px;
+}
+
+.IG1{
+    font-size:xx-large;
+}
+
+.TT2{
+    font-size:xx-large;
+}
+
+.X3{
+    font-size:xx-large;
+}
+
+button>img.gambarIG{
+    width:30px ;
+    height:30px ;
+    float: unset;
+    padding-top: 7px;
+}
+
+b.TT{
+    color: black;
+    text-shadow: -3px 1px 1px rgb(35, 35, 197);
+}
+
+b.TT:hover{
+    color: white;
+}
+
+b.X{
+    color: black;
+}
+
+button.IG1:hover{
+    background-color: white;
+    color: rgb(209, 109, 204) ;
+}
+
+button.TT2:hover{
+    background-color: black;
+}
+
+b.X:hover{
+    color: white;
+}
+
+button.X3:hover{
+    background-color: black;
+}
